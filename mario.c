@@ -1,3 +1,5 @@
+//cs50 file header is taken from the cs50 harvard course 
+// it is used in the following code to take in input
 #include <cs50.h>
 #include <stdio.h>
 
